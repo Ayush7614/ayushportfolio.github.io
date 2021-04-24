@@ -5,5 +5,4 @@
 
 Take a look at my [Website](https://ayush7614.github.io/ayushportfolio.github.io/) :smiley:
 
-![ayushportfolio.github.io](https://socialify.git.ci/https:/ayush7614.github.io/ayushportfolio.github.io/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Light)
 
